@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Some thoughts and notes I have."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -25,6 +25,13 @@
     "href": "index.html",
     "title": "Some notes and musings",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Let there be light\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 12, 2026\n\n\nspulick\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/let-there-be-light/index.html",
+    "href": "posts/let-there-be-light/index.html",
+    "title": "Let there be light",
+    "section": "",
+    "text": "Let’s think of a system.\nI post every weekend a corpus of my thoughts on matters, some fun modelling I’ve done, or in case it’s one of those weeks, just me ranting about things.\nI do hope the honourable reader finds it in themselves the masochist inclinations society has forced them push down (probably). An irresponsible person like myself must be named and shamed if that promised weekly post does not come up before start of business Monday morning.\nSomewhere down the line, I’m hoping to add functionality to allow anonymous commentig by the honorable reader. Constructive comments, hopefully."
   }
 ]
