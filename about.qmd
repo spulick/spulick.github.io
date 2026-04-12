@@ -2,7 +2,7 @@
 title: "About"
 image: i-are-serious-cat.jpg
 about:
-  template: trestles
+  template: broadside
 ---
 
 I like lolcats, data, computers, policy, and several permutations thereof. Always happy to chat about modeling policy or buying a farm.
