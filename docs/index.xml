@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>spulick</title>
-<link>https://orectique.github.io/</link>
-<atom:link href="https://orectique.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://spulick.github.io/</link>
+<atom:link href="https://spulick.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Some notes and musics</description>
 <generator>quarto-1.9.36</generator>
 <lastBuildDate>Sat, 11 Apr 2026 14:00:00 GMT</lastBuildDate>
 <item>
   <title>Let there be light</title>
   <dc:creator>spulick </dc:creator>
-  <link>https://orectique.github.io/posts/let-there-be-light/</link>
+  <link>https://spulick.github.io/posts/let-there-be-light/</link>
   <description><![CDATA[ 
 
 
@@ -24,7 +24,7 @@
 <p>Let’s think of a system.</p>
 <p>I post every weekend a corpus of my thoughts on matters, some fun modelling I’ve done, or in case it’s one of those weeks, just me ranting about things.</p>
 <p>I do hope the honourable reader finds it in themselves the masochist inclinations society has forced them push down (probably). An irresponsible person like myself must be named and shamed if that promised weekly post does not come up before start of business Monday morning.</p>
-<p>Somewhere down the line, I’m hoping to add functionality to allow anonymous commentig by the honorable reader. Constructive comments, hopefully.</p>
+<p>Somewhere down the line, I’m hoping to add functionality to allow anonymous commenting by the honorable reader. Constructive comments, hopefully.</p>
 
 
 
@@ -33,7 +33,7 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://orectique.github.io/posts/let-there-be-light/</guid>
+  <guid>https://spulick.github.io/posts/let-there-be-light/</guid>
   <pubDate>Sat, 11 Apr 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>

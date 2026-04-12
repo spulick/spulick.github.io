@@ -1,1 +1,1 @@
-Sitemap: https://orectique.github.io/sitemap.xml
+Sitemap: https://spulick.github.io/sitemap.xml

@@ -4,7 +4,7 @@ project:
 
 website:
   description: "Some notes and musics"
-  site-url: https://orectique.github.io # you must change this appropriately for RSS feeds to work properly
+  site-url: https://spulick.github.io # you must change this appropriately for RSS feeds to work properly
   title: spulick
   page-navigation: true
   back-to-top-navigation: true
@@ -15,6 +15,8 @@ website:
     right:
       - file: about.qmd
         text: About Me
+      - icon: rss
+        href: index.xml
 
 execute:
     # freeze computations instead of re-executing them each time
