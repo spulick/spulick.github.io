@@ -1,7 +1,8 @@
 ---
 title: "About"
-image: profile.jpg
+image: i-are-serious-cat.jpg
 about:
   template: jolla
 ---
-Some thoughts and notes I have.
+
+I like lolcats, data, computers, policy, and several permutations thereof. Always happy to chat about modeling policy or buying a farm.
