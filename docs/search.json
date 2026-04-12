@@ -7,18 +7,11 @@
     "text": "Some thoughts and notes I have."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/let-there-be-light/index.html",
+    "href": "posts/let-there-be-light/index.html",
+    "title": "Let there be light",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Let’s think of a system.\nI post every weekend a corpus of my thoughts on matters, some fun modelling I’ve done, or in case it’s one of those weeks, just me ranting about things.\nI do hope the honourable reader finds it in themselves the masochist inclinations society has forced them push down (probably). An irresponsible person like myself must be named and shamed if that promised weekly post does not come up before start of business Monday morning.\nSomewhere down the line, I’m hoping to add functionality to allow anonymous commentig by the honorable reader. Constructive comments, hopefully."
   },
   {
     "objectID": "index.html",
@@ -26,12 +19,5 @@
     "title": "Some notes and musings",
     "section": "",
     "text": "Let there be light\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 12, 2026\n\n\nspulick\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/let-there-be-light/index.html",
-    "href": "posts/let-there-be-light/index.html",
-    "title": "Let there be light",
-    "section": "",
-    "text": "Let’s think of a system.\nI post every weekend a corpus of my thoughts on matters, some fun modelling I’ve done, or in case it’s one of those weeks, just me ranting about things.\nI do hope the honourable reader finds it in themselves the masochist inclinations society has forced them push down (probably). An irresponsible person like myself must be named and shamed if that promised weekly post does not come up before start of business Monday morning.\nSomewhere down the line, I’m hoping to add functionality to allow anonymous commentig by the honorable reader. Constructive comments, hopefully."
   }
 ]
