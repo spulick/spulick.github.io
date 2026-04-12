@@ -6,3 +6,6 @@ _site/
 .bundle/
 vendor/
 
+
+/.quarto/
+**/*.quarto_ipynb
