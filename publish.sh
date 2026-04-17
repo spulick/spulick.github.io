@@ -1,4 +1,4 @@
 quarto render
 git add . 
-git commit -m ""
+git commit -m "fix post"
 git push
